@@ -1,1 +1,0 @@
-# Satsyk.github.io
