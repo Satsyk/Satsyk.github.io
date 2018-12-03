@@ -101,6 +101,10 @@ header {
     position: relative;
     overflow: hidden;
 }
+.content.offset {
+    padding-left: 20px;
+    padding-right: 20px;    
+}
 .content .title {
     text-align: center;
     font-weight: bold;
@@ -405,6 +409,9 @@ a:hover div.img img{
     font-size: 16px;
     margin-top: 10px;
 }
+.tn-text h1 {
+    font-size: 28px;
+}
 @keyframes blink {
     from {
         color: black;
@@ -455,6 +462,9 @@ a:hover div.img img{
         display: none;
     }
     .animation {
-    display: none;
+        display: none;
+    }
+    .embed-responsive {
+        margin-bottom: 20px;
     }
 }
